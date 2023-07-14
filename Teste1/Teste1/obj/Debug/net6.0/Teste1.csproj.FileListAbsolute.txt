@@ -1,0 +1,15 @@
+C:\Html\ProgramaEstágio\Teste1\Teste1\bin\Debug\net6.0\Teste1.exe
+C:\Html\ProgramaEstágio\Teste1\Teste1\bin\Debug\net6.0\Teste1.deps.json
+C:\Html\ProgramaEstágio\Teste1\Teste1\bin\Debug\net6.0\Teste1.runtimeconfig.json
+C:\Html\ProgramaEstágio\Teste1\Teste1\bin\Debug\net6.0\Teste1.dll
+C:\Html\ProgramaEstágio\Teste1\Teste1\bin\Debug\net6.0\Teste1.pdb
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\Teste1.csproj.AssemblyReference.cache
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\Teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\Teste1.AssemblyInfoInputs.cache
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\Teste1.AssemblyInfo.cs
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\Teste1.csproj.CoreCompileInputs.cache
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\Teste1.dll
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\refint\Teste1.dll
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\Teste1.pdb
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\Teste1.genruntimeconfig.cache
+C:\Html\ProgramaEstágio\Teste1\Teste1\obj\Debug\net6.0\ref\Teste1.dll

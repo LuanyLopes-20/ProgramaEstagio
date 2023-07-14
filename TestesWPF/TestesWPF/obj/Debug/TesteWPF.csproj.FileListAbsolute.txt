@@ -1,0 +1,12 @@
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\bin\Debug\WindowsFormsApp1.exe.config
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\bin\Debug\WindowsFormsApp1.exe
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\bin\Debug\WindowsFormsApp1.pdb
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\obj\Debug\TesteWPF.csproj.AssemblyReference.cache
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\obj\Debug\TesteWPF.csproj.SuggestedBindingRedirects.cache
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\obj\Debug\TesteWPF.csproj.GenerateResource.cache
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\obj\Debug\TesteWPF.csproj.CoreCompileInputs.cache
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\obj\Debug\WindowsFormsApp1.exe
+C:\Html\ProgramaEstágio\TestesWPF\TestesWPF\obj\Debug\WindowsFormsApp1.pdb
